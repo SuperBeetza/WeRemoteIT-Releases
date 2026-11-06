@@ -1,0 +1,7 @@
+{
+  "versionCode": 13,
+  "versionName": "1.3.3",
+  "apkUrl": "https://raw.githubusercontent.com/SuperBeetza/WeRemoteIT-Releases/main/WeRemoteIT.apk",
+  "releaseNotes": "Click-to-toggle Magic Pointer + 4-way Joystick Scroll pad, visible remote pointer cursor on mini screen, fixed My TVs close X button, and instant auto-reconnect when returning from background.",
+  "publishedAt": "2026-11-05"
+}
